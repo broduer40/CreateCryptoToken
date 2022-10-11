@@ -1,5 +1,5 @@
 # CreateCryptoToken
-© 2022 Graham Zemel
+© 2022 Graham Zemel  
 REMIX Ethereum IDE
 
 This is a great beginner project for anyone interested in cryptocurrency to clone and modify, and eventually deploy their own tokens. 
